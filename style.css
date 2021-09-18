@@ -208,7 +208,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://miro.medium.com/max/2000/1*pKIjwoPgFlNqoGwe9LZTtw.jpeg") no-repeat center;
+    background: url("https://www.pngkit.com/png/detail/310-3104250_related-wallpapers-full-stack-developer-png.png") no-repeat center;
     height: 150vh;
     color: rgb(0, 0, 0);
     min-height: 500px;
